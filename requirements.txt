@@ -1,0 +1,11 @@
+opencv-python
+numpy
+scikit-learn
+Pillow
+
+torch
+torchvision
+
+rembg   # MVP 用，之後可換 RMBG
+
+matplotlib  # debug 用
